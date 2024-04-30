@@ -1,0 +1,6 @@
+モデルルートにアタッチすると利用できます。時計のアニメ―ションを再生します。
+注意！！：Unityでのみ機能します。VRCへアップする際にはアタッチしたClockAnimatorコンポーネントを削除してください。
+
+It can be used by attaching it to the model root. Play the clock animation.
+Note! ! : Only works in Unity. Please delete the attached ClockAnimator component when uploading to VRC.
+
