@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "VineStripe_\uC790\uCF13\uD230"
+  m_Name: "VineStripe_\u110C\u1161\u110F\u1166\u11BA\u1110\u116E\u11AB"
   m_Shader: {fileID: 4800000, guid: d12428961551799408aa97256fd770c3, type: 3}
   m_ValidKeywords:
   - N_F_O_ON
